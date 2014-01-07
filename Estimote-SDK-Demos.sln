@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Distance\Distance.csproj", "{29691C58-81F9-44D1-9AD7-8175A9039EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proximity", "Proximity\Proximity.csproj", "{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notification", "Notification\Notification.csproj", "{68DB1546-484E-4517-9FA3-8E9A01CADD6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Release|iPhone.Build.0 = Release|iPhone
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{29691C58-81F9-44D1-9AD7-8175A9039EDF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Release|iPhone.Build.0 = Release|iPhone
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{68DB1546-484E-4517-9FA3-8E9A01CADD6E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Debug|iPhone.Build.0 = Debug|iPhone
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Release|iPhone.Build.0 = Release|iPhone
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{728C7C9E-5411-4233-AFA2-049CE8ADB0E4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Distance\Distance.csproj
+	EndGlobalSection
+EndGlobal
