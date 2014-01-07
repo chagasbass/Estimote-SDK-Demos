@@ -1,9 +1,11 @@
 Estimote-SDK-Demos
 ==================
 
-Conversion of the Estimote iOS-SDK Demos to Xamarin.
+Conversion of the Estimote iOS-SDK Demos to Xamarin. These examples utilize the Estimote Beacons Xamarin SDK Wrapper located here:
 
-For more information on the demos please visit the Estimote API site:
+https://github.com/mono/monotouch-bindings/tree/master/Estimote
+
+For more information on the demos please read the Estimote API:
 
 http://estimote.com/api/
 
